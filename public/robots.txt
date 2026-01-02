@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://park-tech-df7aadb6.zappy5.app/sitemap.xml

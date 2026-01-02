@@ -1,0 +1,69 @@
+# פארק טק - Park-Tech — Generative Engine Optimization Map
+
+> פארק-טק היא חברה שותפה לחברת טרנסטק מערכות. לחברה ניסיון מצטבר עשיר של למעלה משלושה עשורים, הן בתחום ההנדסה והבניה המורכבת והן במתן פתרונות אוטומטיים. חברת Park-Tech פתרונות חניה הינה חברה מובילה בשוק הישראלי המתמחה במתן פתרונות חניה אוטומטיים כגון: מתקני חניה, מכפילי חניה ועוד.
+
+---
+
+## Pages
+
+### דף הבית
+https://park-tech-df7aadb6.zappy5.app
+מתקני חניה אוטומטיים ומכפילי חניה מהמובילים בישראל. פתרונות חניה חכמים לבניינים, קבלנים ויזמים. התקשרו עוד היום!
+
+### שירותים
+https://park-tech-df7aadb6.zappy5.app/services
+מגוון רחב של מתקני חניה אוטומטיים, מכפילי חניה, פלטות מסתובבות ופתרונות תמא 38. שירות תחזוקה 24/7 וביטוח מלא.
+
+### אודות
+https://park-tech-df7aadb6.zappy5.app/about
+פארק-טק - שותפה לטרנסטק מערכות. 30+ שנות ניסיון במתקני חניה אוטומטיים ומכפילי חניה. מובילים בשוק הישראלי.
+
+### צור קשר
+https://park-tech-df7aadb6.zappy5.app/contact
+צרו קשר עם פארק-טק לייעוץ מקצועי במתקני חניה אוטומטיים ומכפילי חניה. זמינים 24/7 לשירותכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://park-tech-df7aadb6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://park-tech-df7aadb6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://park-tech-df7aadb6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פארק טק - Park-Tech
+פארק-טק היא חברה שותפה לחברת טרנסטק מערכות. לחברה ניסיון מצטבר עשיר של למעלה משלושה עשורים, הן בתחום ההנדסה והבניה המורכבת והן במתן פתרונות אוטומטיים. חברת Park-Tech פתרונות חניה הינה חברה מובילה בשוק הישראלי המתמחה במתן פתרונות חניה אוטומטיים כגון: מתקני חניה, מכפילי חניה ועוד.
+
+## Services/Products
+- מתקני חניה אוטומטיים
+- מכפילי חניה
+- פלטה מסתובבת לחניון
+- מתקנים עם בור
+- מתקנים סמויים
+- מתקנים ללא בור
+- מתקנים חצי אוטומטים
+- מעלית רכב
+- פתרונות חניה תמא 38
+- ביטוח מתקני חניה
+- שירות תחזוקה 24 שעות
+
+## Target Audience
+
+## Industry
+תשתיות וחניה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://park-tech-df7aadb6.zappy5.app/sitemap.xml
+- **Robots.txt**: https://park-tech-df7aadb6.zappy5.app/robots.txt
